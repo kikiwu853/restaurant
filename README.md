@@ -64,11 +64,6 @@ restaurant/
 
 > 提醒：Google Maps、Google Fonts、Bootstrap Icons 等外部資源需要網路連線。
 
-## 部署至 GitHub Pages
-
-在 GitHub 儲存庫中進入 **Settings → Pages**，將來源設定為 **Deploy from a branch**，選擇 **main / (root)** 並儲存。網站會使用根目錄的 `index.html` 作為首頁。
-
-部署成功後，可將本 README 上方的「線上展示」更新成實際網址。
 
 ## 目前限制與後續方向
 
